@@ -1,24 +1,14 @@
-<<<<<<< HEAD
+Proposal for Microsoft Movie Studio
 =======
-# Phase 1 Project
+### Overview
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+This project will offer suggestions to Microsoft on how to start a movie studio. Because Microsoft would be a new player in the movie business, we will assume they are starting from scratch and need to suggest a good starting point to launch the studio. We will begin an exploratory analysis of movie data to make suggestions on how to start making movies.
 
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
-
-## Project Overview
-
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
-
->>>>>>> 938ce5fbabd243e04c8ff2de1c092f9b85a52a5d
 ### Business Problem
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. It is important for this venture to be profitable, but we will also make sure that films have good audience and critical reception to establish Microsoft's new studio as a longterm player in the film industry.
 
 ### The Data
-
-In the folder `zippedData` are movie datasets from:
 
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
@@ -31,16 +21,6 @@ It is up to you to decide what data from this to use and how to use it. If you w
 * imdb.title.basics
 * imdb.title.ratings
 * bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
 
 ### Key Points
 
