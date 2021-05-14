@@ -1,4 +1,4 @@
-![](/photos/med_header.jpg)
+![](/photos/small_header.jpg)
 
 # Microsoft's New Movie Studio
 #### Authors: Bradly Horn and George Ferre
