@@ -83,4 +83,4 @@ Fantasy: Chris Columbus
 
 ## For More Information
 
-For more details you can look at our [Jupyter Notebook](https://github.com/GeorgeFerre/dsc-phase-1-project/blob/main/Final%20Tech%20Notebook.ipynb) or [our presentation](https://github.com/GeorgeFerre/dsc-phase-1-project/blob/main/Slide_Deck.pptx).
+For more details you can look at our [Jupyter Notebook](https://github.com/GeorgeFerre/dsc-phase-1-project/blob/main/Final%20Tech%20Notebook.ipynb) or [our presentation](https://github.com/GeorgeFerre/dsc-phase-1-project/blob/main/movie_slide_deck.pdf).
