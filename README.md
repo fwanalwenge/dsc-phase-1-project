@@ -72,3 +72,15 @@ We would like to reach out to the following directors:
 Animation: Gore Verbinski
 Adventure: Sam Mendes
 Fantasy: Chris Columbus
+
+## Next Steps
+
+1. Categorize genres into subgenres to get more detailed information on what is trending.
+
+2. Look into movie genre combinations. We began by isolating genres to see what is most popular, but would also like to get information on what combinations do best.
+
+3. Generate recommendations for actors, similar to our process for finding writers and directors.
+
+## For More Information
+
+For more details you can look at our [Jupyter Notebook](http://google.com) or [our presentation]().
