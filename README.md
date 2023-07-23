@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses data from Rotten Tomatoes, TheMovieDB, and The Numbers and analyazes it to come up with three suggestions for helping the head microsoft's new movie studio department. It will aim to answer the following: 
+This project uses data from IMDB, and The Numbers and analyazes it to come up with three suggestions for helping the head microsoft's new movie studio department. It will aim to answer the following: 
 
 1. What is the best time of the year to release movies?
 2. What is the most popular genre?
