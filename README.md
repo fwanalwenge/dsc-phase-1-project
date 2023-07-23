@@ -1,5 +1,7 @@
 # Project Title: Movie Data Exploration and Analysis.
 
+![image](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/5d24212c-99b3-4b6a-98e0-bce792bc5f87)
+
 ## Project Overview
 
 This project uses data from IMDB, and The Numbers and analyazes it to come up with three suggestions for helping the head microsoft's new movie studio department. It will aim to answer the following: 
