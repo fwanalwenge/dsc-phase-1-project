@@ -5,13 +5,13 @@
 This project uses data from Rotten Tomatoes, TheMovieDB, and The Numbers and analyazes it to come up with three suggestions for helping the head microsoft's new movie studio department. It will aim to answer the following: 
 
 1. What is the best time of the year to release movies?
-2. WWhat is the most popular genre?hat is the most popular genre?
+2. What is the most popular genre?
 3. What is the relationship between rating vs profit/loss and rating vs release year?
-4. What is the Average movie runtime?
+4. What is the average movie runtime?
 
 ### Business Problem
 
-Microsoft wanted to create a new movie studio, but they don't know anything about creating movies. So the project will cover exploring and analyzing movie data to find what types of films are currently doing the best at the box office and come up with recommendations for business.
+Microsoft wants to create a new movie studio, but they don't know anything about creating movies. So the project will cover exploring and analyzing movie data to find what types of films are currently doing the best at the box office and come up with recommendations for business.
 
 ### The Data
 
@@ -22,7 +22,6 @@ In the folder `zippedData` are movie datasets from:
 * [Rotten Tomatoes](https://www.rottentomatoes.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
-
 
 
 
@@ -37,7 +36,7 @@ Conclusion: The top 3 months to release the movie are December,June and May for 
 i. Distribution of genres in different categories?
 ![Movies per Genre](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/7f2fd2a3-1211-4d13-bbd5-ee80b740cb36)
 
-The most common Genre is Drama
+The most common genre is Drama
 
 ii. Analysis of ratings
 
@@ -54,11 +53,11 @@ Conclusion:The Genre Comedy,Documentary,Fantasy is rated highest by average rati
 
 Conclusions:
 
-Averagerating Vs profit/loss have 0.16 correlation between them. This means there is a low possibility that movies with higher average ratings have higher profits.
+i. Averagerating Vs profit/loss have 0.16 correlation between them. This means there is a low possibility that movies with higher average ratings have higher profits.
 
-Production_budget Vs profit both have 0.65 correlation between them. This means there is a good possibility that movies with higher investments result in better revenue.
+ii. Production_budget Vs profit both have 0.65 correlation between them. This means there is a good possibility that movies with higher investments result in better revenue.
 
-Start_year Vs num votes have a negative(-0.088) correlation. This means that movie rating (num votes) do not depend on the release year.
+iii. Start_year Vs num votes have a negative(-0.088) correlation. This means that movie rating (num votes) do not depend on the release year.
 
 
 ### What is the Average movie runtime?
