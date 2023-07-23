@@ -1,6 +1,7 @@
 # Project Title: Movie Data Exploration and Analysis.
 
-![image](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/5d24212c-99b3-4b6a-98e0-bce792bc5f87)
+![image](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/cbf2ef36-0527-433e-a451-ff2ae3b59ef4)
+
 
 ## Project Overview
 
