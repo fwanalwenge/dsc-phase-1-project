@@ -62,7 +62,7 @@ iii. Start_year Vs num votes have a negative(-0.088) correlation. This means tha
 
 
 ### What is the Average movie runtime?
-Displaying of the boxplot before remiving outliers from  the dataframe
+Displaying of the boxplot before removing outliers from  the dataframe
 
 ![Outliers](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/a8032e63-e232-40b7-bade-0d7705e9fef2)
 
