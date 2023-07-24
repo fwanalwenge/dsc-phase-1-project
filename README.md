@@ -1,4 +1,5 @@
 # Project Title: Movie Data Exploration and Analysis.
+![microsoft_square](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/b26bbbb0-df18-486f-9123-ad8255572f23)
 
 
 ## Project Overview
