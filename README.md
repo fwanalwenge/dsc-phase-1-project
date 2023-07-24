@@ -1,4 +1,4 @@
-# Project Title: Movie Data Exploration and Analysis.
+# Project Title: Movie Data Exploration and Analysis
 ![microsoft_square](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/b26bbbb0-df18-486f-9123-ad8255572f23)
 
 
@@ -25,9 +25,17 @@ In the folder `zippedData` are movie datasets from:
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
+### Methodology
+1. Import libraries
+2. Open relevant files
+3. Exploratory data analysis and Data cleaning
+4. Data analysis
+5. Join files for further analysis
+6. Data analysis and visualization
 
+## Analysis
 
-### What is the best time of the year to release movies
+### What is the best time of the year to release movies?
 
 
 ![Profit by Month](https://github.com/fwanalwenge/dsc-phase-1-project/assets/134020486/4228326f-7bc9-4839-a607-bee2a3ebe587)
